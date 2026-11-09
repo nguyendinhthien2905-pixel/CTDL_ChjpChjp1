@@ -15,75 +15,75 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DanhSachLienKet.h">
+    <ClInclude Include="DanhSachLienKet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DanhSachThe.h">
+    <ClInclude Include="DanhSachThe.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuAdmin.h">
+    <ClInclude Include="DichVuAdmin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuUser.h">
+    <ClInclude Include="DichVuUser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\GiaoDich.h">
+    <ClInclude Include="GiaoDich.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\HangSo.h">
+    <ClInclude Include="HangSo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\KhoFile.h">
+    <ClInclude Include="KhoFile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\MayATM.h">
+    <ClInclude Include="MayATM.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\NganXep.h">
+    <ClInclude Include="NganXep.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\Nut.h">
+    <ClInclude Include="Nut.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TaiKhoan.h">
+    <ClInclude Include="TaiKhoan.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TienIch.h">
+    <ClInclude Include="TheTu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TheTu.h">
+    <ClInclude Include="TienIch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DanhSachThe.cpp">
+    <ClCompile Include="DanhSachThe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuAdmin.cpp">
+    <ClCompile Include="DichVuAdmin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuUser.cpp">
+    <ClCompile Include="DichVuUser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\GiaoDich.cpp">
+    <ClCompile Include="GiaoDich.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\KhoFile.cpp">
+    <ClCompile Include="KhoFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\MayATM.cpp">
+    <ClCompile Include="MayATM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TaiKhoan.cpp">
+    <ClCompile Include="TaiKhoan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TheTu.cpp">
+    <ClCompile Include="TheTu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TienIch.cpp">
+    <ClCompile Include="TienIch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -123,31 +123,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DanhSachLienKet.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DanhSachThe.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuAdmin.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuUser.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\GiaoDich.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\HangSo.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\KhoFile.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\MayATM.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\NganXep.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\Nut.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TaiKhoan.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TheTu.h" />
-    <ClInclude Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TienIch.h" />
+    <ClInclude Include="DanhSachLienKet.h" />
+    <ClInclude Include="DanhSachThe.h" />
+    <ClInclude Include="DichVuAdmin.h" />
+    <ClInclude Include="DichVuUser.h" />
+    <ClInclude Include="GiaoDich.h" />
+    <ClInclude Include="HangSo.h" />
+    <ClInclude Include="KhoFile.h" />
+    <ClInclude Include="MayATM.h" />
+    <ClInclude Include="NganXep.h" />
+    <ClInclude Include="Nut.h" />
+    <ClInclude Include="TaiKhoan.h" />
+    <ClInclude Include="TheTu.h" />
+    <ClInclude Include="TienIch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DanhSachThe.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuAdmin.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\DichVuUser.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\GiaoDich.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\KhoFile.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\main.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\MayATM.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TaiKhoan.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TheTu.cpp" />
-    <ClCompile Include="C:\Users\DINH THIEN\Downloads\New folder\ATM\TienIch.cpp" />
+    <ClCompile Include="DanhSachThe.cpp" />
+    <ClCompile Include="DichVuAdmin.cpp" />
+    <ClCompile Include="DichVuUser.cpp" />
+    <ClCompile Include="GiaoDich.cpp" />
+    <ClCompile Include="KhoFile.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MayATM.cpp" />
+    <ClCompile Include="TaiKhoan.cpp" />
+    <ClCompile Include="TheTu.cpp" />
+    <ClCompile Include="TienIch.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
